@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogApp.Android", "DogApp\DogApp.Android\DogApp.Android.csproj", "{132F7FE8-19C1-4174-9757-2D5B8DAE43F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogApp", "DogApp\DogApp\DogApp.csproj", "{F3F4A35D-EE2B-439D-B67C-1A969B690E7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{132F7FE8-19C1-4174-9757-2D5B8DAE43F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{132F7FE8-19C1-4174-9757-2D5B8DAE43F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{132F7FE8-19C1-4174-9757-2D5B8DAE43F0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{132F7FE8-19C1-4174-9757-2D5B8DAE43F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{132F7FE8-19C1-4174-9757-2D5B8DAE43F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{132F7FE8-19C1-4174-9757-2D5B8DAE43F0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F3F4A35D-EE2B-439D-B67C-1A969B690E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F4A35D-EE2B-439D-B67C-1A969B690E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F4A35D-EE2B-439D-B67C-1A969B690E7F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F3F4A35D-EE2B-439D-B67C-1A969B690E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F4A35D-EE2B-439D-B67C-1A969B690E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F4A35D-EE2B-439D-B67C-1A969B690E7F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B64FE3B4-9D64-4D96-973E-A59672865256}
+	EndGlobalSection
+EndGlobal
